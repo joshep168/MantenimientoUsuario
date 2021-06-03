@@ -18,6 +18,11 @@ namespace Usuario.Application.Services
             return _personaRepository.GetPersonas(); 
         }
 
+        /// <summary>
+        /// Este el metodo que retona un Usuario
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public Persona RetonarPersona(string id)
         {
             return _personaRepository.GetPersonaxId(id);
