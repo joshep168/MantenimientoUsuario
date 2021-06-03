@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBs2yUPcvhtY/YvMIHA0sbOTuDsohg/VQ0BT9cmQV0Rtjg77Itr2dTpt1+9bzc+2zW3u1igmcf90EhU4ezQPIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joshe\\OneDrive - everis\\Documentos\\FORMACION NET\\Luis\\Usuario.Api\\Usuario.Application\\Usuario.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joshe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joshe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
